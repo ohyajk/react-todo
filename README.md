@@ -1,35 +1,161 @@
-## React Tutorial from Scratch– A Step-by-Step Guide (2021 Update)
+<a name="readme-top"></a>
 
-This repo holds all the code for a React todos application. You can follow the step by step [guide to building the awesome project here](https://ibaslogic.com/react-tutorial-for-beginners/).
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-## [Click to See the Todos App](https://ibaslogic.github.io/react-todo-project/)
+Modify this file to match your project and remove sections that don't apply.
 
-The code is available in the `src` folder. In there, you’ll see two folders named `classBased` and `functionBased` holding the class component and function component code respectively.
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
 
-### Clone the project
+<!-- TABLE OF CONTENTS -->
 
-You can download or clone this project by running this command from your terminal:
+# 📗 Table of Contents
 
-```
-git clone https://github.com/Ibaslogic/react-todo-app
-```
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-This will create a directory in the name of the project folder.
+<!-- PROJECT DESCRIPTION -->
 
-Once you have the project files and folders bootstrapped, open it with your text editor.
+# 📖 To Do List 🪄🔮🧝 <a name="about-project"></a>
 
-Next, switch inside the project directory and run:
+> It is a to do list App made with React.
 
-```
-npm install
-```
+## 🛠 Built With <a name="built-with"></a>
 
-This will install all the necessary dependencies in the local `node_modules` folder.
+>HTML
+>Javascript
+>CSS
+>Webpack
+>React
 
-Finally, start your development server by running:
+<!-- Features -->
 
-```
-npm start
-```
+### Key Features <a name="key-features"></a>
 
-You should see the app in your browser address bar at [http://localhost:3000](http://localhost:3000)
+> Describe between 1-3 key features of the application.
+
+- Es6
+- Reliable
+- Modern
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](http://ohyajk.me/react-todo/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+- Internet
+- Code Editor or IDE
+- Browser
+
+### Setup
+
+Clone this repository to your desired folder
+
+### Install
+
+Nothing required to install.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> All of the collaborators of this project.
+
+👤 Jitender Kumar
+
+- GitHub: [@ohyajk](https://github.com/ohyajk)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- Use Tailwind
+- Use OOPS
+- Modern Style Design
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions are welcome...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Give a star to show support.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> I would like to thank...
+
+- Google
+- Stackoverflow
+- Myself
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
