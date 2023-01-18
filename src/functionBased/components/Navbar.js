@@ -31,7 +31,7 @@ const Navbar = () => {
 
   return (
     <nav className="navBar">
-      <button onClick={handleToggle}>
+      <button type="button" onClick={handleToggle}>
         {
           navbarOpen
             ? (
