@@ -1,13 +1,10 @@
-import React, { useState, useEffect } from 'react';
+/* eslint-disable react/prop-types */
+import React, { useState } from 'react';
 import { FaTrash } from 'react-icons/fa';
 import styles from './TodoItem.module.css';
 
 const TodoItem = (props) => {
   const [editing, setEditing] = useState(false);
-
-  useEffect(() => () => {
-    console.log('Cleaning up...');
-  }, []);
 
   const handleEditing = () => {
     setEditing(true);
